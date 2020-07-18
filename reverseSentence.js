@@ -9,3 +9,6 @@ function reverseString (str){
 var statement = "Hello Alien bhai brother.";
 var forAlien = reverseString(statement);
 console.log(forAlien);
+
+var foodVlog = reverseString("ki khowa jay..? khida lagche");
+console.log(foodVlog);
